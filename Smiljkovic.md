@@ -9,4 +9,5 @@
 |*07.12.2016*|Hand-in-Hand|Weitere Vorgehensweise mit Herr Prof. Stütz beschprochen. Benötigte Ressourcen wurden zusammengesucht. Aufsetzen und Konfiguration des RPI.|
 |*14.12.2016*|Beamer-Fernbedienung|Widmung zu dem Library-Problem. Importprobleme der Library wurde zum Teil gelöst.|
 |*10.01.2017*|Beamer-Fernbedienung|Andere vorgehensweise an die import-Problmeme. Alternativlibrary wurde gesucht.|
-|*01.01.2017*|Hand-in-Hand|Entwurf und Gestaltung des Projektplakats.|
+|*11.01.2017*|Hand-in-Hand|Entwurf und Gestaltung des Projektplakats.|
+|*12.01.2017*|Beamer-Fernbedienung|Library-Problem gesucht und behoben. Korrupte Datei wurde entfernt.|
