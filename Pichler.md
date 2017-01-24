@@ -17,3 +17,4 @@
 |*20.01.2017*|Weatherstation|libraries.sh zur einfachen Installation der benötigten Libraries für den REST Service|
 |*21.01.2017*|EasyGrow|Arduino: automatisches Finden des Arduinos über das Netzwerk|
 |*21.01.2017*|EasyGrow|Android: Verfeinerung und automatisches Finden des Arduinos über das Netzwerk|
+|*23.01.2017*|EasyGrow|Android: Automatisches Speichern von den Einstellungen(Arduino IP, Optimumwerte)|
