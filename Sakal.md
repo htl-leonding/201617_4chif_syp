@@ -2,10 +2,10 @@
 ##in130077, Kt. Nr.: 18
 
 ###Projekte
-- Beamerfernbedienung
-- Hand-In-Hand
-- Carvago
-- Diplomarbeit (Herr Prof. Stütz)
+- Beamerfernbedienung ![Progress](http://progressed.io/bar/10)  
+- Hand-In-Hand ![Progress](http://progressed.io/bar/90)
+- Carvago ![Progress](http://progressed.io/bar/65)
+- Diplomarbeit (Herr Prof. Stütz) ![Progress](http://progressed.io/bar/5)
 
 
 
