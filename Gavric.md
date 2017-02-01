@@ -3,5 +3,10 @@
 
 
 | Datum | Projekt | Bericht |
-|---|---|---|
+----------------------------------------------------------------------
 |*11.01.2017*|FIT-CRM|Robo-LAB, Tag der offenen Türen|
+|*18.01.2017*|FIT-CRM|Robo-LAB, Tag der offenen Türen|
+|*25.01.2017*|FIT-CRM|Robo-LAB, Tag der offenen Türen|
+|*25.01.2017*|FIT-CRM|Einlesen in die DB, erstellen von Testdaten|
+
+
