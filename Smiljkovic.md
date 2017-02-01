@@ -11,3 +11,6 @@
 |*10.01.2017*|Beamer-Fernbedienung|Andere vorgehensweise an die import-Problmeme. Alternativlibrary wurde gesucht.|
 |*11.01.2017*|Hand-in-Hand|Entwurf und Gestaltung des Projektplakats.|
 |*12.01.2017*|Beamer-Fernbedienung|Library-Problem gesucht und behoben. Korrupte Datei wurde entfernt.|
+|*18.01.2017*|Hand-in-Hand|Skizzierung der Bohrlöcher und erste zusammenarbeit mit dem Projekt HotRoad.|
+|*25.01.2017*|Hand-in-Hand|Hand-in-Hand wurde mithilfe eines ESP8266 provisorisch zusammengebaut.|
+|*01.02.2017*|WackerNeuson|Erste Besprechung mit WackerNeuson|
