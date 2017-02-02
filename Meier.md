@@ -10,3 +10,5 @@
 |*12.01.2017*|Weatherstation|Änderte die Farbe der angezeigten Diagramme|
 |*13.01.2017*|Weatherstation|Implementierte das einlesen eines JSON Objekts per REST-Service|
 |*13.01.2017*|Weatherstation|Implementierte die Automatische Aktualisierung der Diagramme|
+|*01.02.2017*|Weatherstation|Dokumentation Weatherstation|
+|*02.02.2017*|Weatherstation|Dokumentation Weatherstation|
