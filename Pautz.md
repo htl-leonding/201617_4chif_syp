@@ -13,3 +13,4 @@
 |*25.01.2017*|FIT-Anmeldesystem|IEntity und Entity Object hinzugefügt|
 |*01.02.2017*|FIT-Anmeldesystem|IGeneric Repository hinzugefügt|
 |*01.02.2017*|FIT-Anmeldesystem|Mit .net core mögliche Designs für das Frontend ausprobiert (ca 4h.) jetzt jedoch hinfällig Aufgrund von umstieg auf Angular2| 
+|*04.02.2017*|FIT-Anmeldesystem|Begonnen Angular2 zu lernen mittels Udemy Kurs|
