@@ -8,7 +8,7 @@
 
 - Carvago ![Progress]                         (http://progressed.io/bar/65?title=Working...)
 
-- Diplomarbeit (Herr Prof. Stütz) ![Progress] (http://progressed.io/bar/15?title=Just started)
+- Diplomarbeit (Herr Prof. Stütz) ![Progress] (http://progressed.io/bar/20?title=Processing)
 
 
 ###Projektdokumentation
@@ -24,8 +24,12 @@
 |*12.01.2017*|Beamer-Fernbedienung|Library-Problem gesucht und behoben. Korrupte Datei wurde entfernt.|
 |*18.01.2017*|Hand-in-Hand|Skizzierung der Bohrlöcher, schleifen und reinigen der Box. Erste Zusammenarbeit mit dem Projekt HotRoad (Roboterführerschein). Änderung unseres bisherigen Projektes um Steuerung der Mobilen-Roboter zu gewährleisten. (Anstatt 3 Buttons -> jetzt 5 bietet auch eine größere Funktionalität im späteren Gebrauch) Der Stream des Roboters wird sogar auf dem 7Zoll Display des Arduinos angezeigt|
 |*25.01.2017*|Hand-in-Hand|Box wurde hergerichtet. Hand-in-Hand wurde mithilfe eines ESP8266 provisorisch zusammengebaut. Um funktionsfähig zu sein am Tag der Offenen Tür|
-|*26.01.2017-27.01.2017*|Hand-in-Hand|Das Projekt kam sehr gut am Tag der offenen Tür an. Sogar der Geschäftsführer der Firma X-Net war beeindruckt von unserem Kästchen|
+|*26.01.2017-27.01.2017*|Hand-in-Hand|Das Projekt kam sehr gut am Tag der offenen Tür an.|
 |*01.02.2017*|Hand-in-Hand|Backup unseres Systems erstellt, Dokumente geupdated, GitHub Repository bereinigt, Weitere Schritte besprochen mit Herr Prof. Stütz. Box soll Impregniert, lackiert und die Kanten geschliefen werden|
 |*01.02.2017*|Carvago|Mithile von @Asynchronous unseren Harvester Multithreadingfähig gemacht. Speicherung in die Datenbank wurde implementiert. Jedoch war das arbeiten auf der VirtualMachine nicht möglich! Der Computer war defekt->Sysadmin|
 |*01.02.2017*|Diplomarbeit|Für das aufsetzen eines Demo Shopes habe ich ein Tool (n89-magerun) gefunden, installiert und ausprobiert das innerhalb kurzer Zeit einen localen Demo-Shop errichtet mit XML-Connect Modul, einer funktionsfähigen Datenbank usw|
+|*02.03.2017*|Carvago|Wieder eine funktionsfähige VirtualMachine bekommen und auch schon die notwendingen Komponenten installiert|
+|*02.03.2017*|Diplomarbeit|Lauffähige Magento Community Edition installiert bei Hofmann, vorraussetzung für die weitere Entwicklung|
+|*02.03.2017*|Hand-in-Hand|Beim Conrad die notwendigen Ressourcen eingekauft Kabel sollen nur noch sicher verbunden werden dann kann das Projekt abgegeben werden|
+
 
