@@ -8,3 +8,4 @@
 |*18.01.2017*|Motortreiber zahazt und wieder repariert|
 |*25.01.2017*|Autosteuerung finalisiert|
 |*01.02.2017*|Besprechung WackerNeuson Diplomarbeit|
+|*01.03.2017*|Arbeiten am Pflichtenheft für DA|
