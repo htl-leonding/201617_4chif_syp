@@ -12,3 +12,4 @@
 |*13.01.2017*|Weatherstation|Implementierte die Automatische Aktualisierung der Diagramme|
 |*01.02.2017*|Weatherstation|Dokumentation Weatherstation|
 |*02.02.2017*|Weatherstation|Dokumentation Weatherstation|
+|*19.04.2017*|Weatherstation|Website Weatherstation|
