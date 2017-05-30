@@ -1,7 +1,7 @@
-#Dokumentation von Sakal Andrej
-##in130077, Kt. Nr.: 18
+# Dokumentation von Sakal Andrej
+## in130077, Kt. Nr.: 18
 
-###Projekte
+### Projekte
 - Beamerfernbedienung ![Progress]             (http://progressed.io/bar/10?title=Paused)  
 
 - Hand-In-Hand ![Progress]                    (http://progressed.io/bar/90?title=In Develop.)
@@ -11,7 +11,7 @@
 - Diplomarbeit (Herr Prof. Stütz) ![Progress] (http://progressed.io/bar/20?title=Processing)
 
 
-###Projektdokumentation
+### Projektdokumentation
 | Datum | Projekt | Bericht |
 |---|---|---|
 |*07.12.2016*|Beamer-Fernbedienung|Script mit Stefan Smiljkovic geschrieben für das Lesen und Senden der Infrarot Lichter der Beamer, jedoch Probleme gehabt mit den Libraries|
