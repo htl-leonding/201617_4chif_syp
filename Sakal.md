@@ -6,9 +6,9 @@
 
 - Hand-In-Hand ![Progress](http://progressed.io/bar/90?title=InDevelop)
 
-- Carvago ![Progress](http://progressed.io/bar/65?title=Working...)
+- Carvago ![Progress](http://progressed.io/bar/85?title=Working...)
 
-- Diplomarbeit (Herr Prof. Stütz) ![Progress](http://progressed.io/bar/20?title=Processing)
+- Diplomarbeit (Herr Prof. Stütz) ![Progress](http://progressed.io/bar/30?title=Processing)
 
 
 ### Projektdokumentation
