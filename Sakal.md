@@ -4,7 +4,7 @@
 ### Projekte
 - Beamerfernbedienung ![Progress](http://progressed.io/bar/10?title=Paused)  
 
-- Hand-In-Hand ![Progress](http://progressed.io/bar/90?title=In Develop.)
+- Hand-In-Hand ![Progress](http://progressed.io/bar/90?title="In Develop.")
 
 - Carvago ![Progress](http://progressed.io/bar/65?title=Working...)
 
